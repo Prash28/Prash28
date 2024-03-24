@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prashanth</h1>
+<h1 align="center">Hi, I'm Prashanth <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">💻 Dev Enthusiast</h3>
 <img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="banner"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prash28&label=Profile%20views&color=0e75b6&style=flat" alt="prash28" /> </p>
