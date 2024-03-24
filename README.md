@@ -3,7 +3,7 @@
 <img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="banner"/>
 <p align="center"><img src="https://profile-counter.glitch.me/Prash28/count.svg" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prash28" alt="prash28" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prash28" alt="prash28" /></a> </p> -->
 
 - 📫 How to reach me **prshnth.619@gmail.com**
 
